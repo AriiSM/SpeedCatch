@@ -15,10 +15,10 @@ Acestea te vor ajuta să explorezi și să utilizezi aplicația fără bătăi d
 
 ### Mind Map
 
-![MindMap]()
+![MindMap](https://github.com/AriiSM/SpeedCatch/blob/main/Documentatie/04%20Integrated/imagini/MindMap.png)
 
 ### Client Flow 
 
-![ClientFlow]()
+![ClientFlow](https://github.com/AriiSM/SpeedCatch/blob/main/Documentatie/04%20Integrated/imagini/ClientFlow.png)
 
 
