@@ -21,7 +21,7 @@
 Vă invităm să explorați detaliile proiectului SpeedCatch printr-o prezentare PPT detaliată și un demo al aplicației. Acestea vor evidenția funcționalitățile principale și modul în care tehnologiile de semantic search și inferență textuală sunt utilizate pentru a oferi rezultate precise și rapide.
 
 Pentru a accesa prezentarea și demo-ul, urmați acest link:
-[Demo+Ppt](https://github.com/LauraDiosan-CS/projects-speedcatch/tree/main/Imbunatatiri/Prezentare)
+[Demo+Ppt](https://github.com/AriiSM/SpeedCatch/tree/main/Documentatie/05%20Imbunatatiri/Prezentare)
 
 ---
 
