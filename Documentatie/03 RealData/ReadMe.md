@@ -171,7 +171,7 @@ for i, (article_id, (index, score)) in enumerate(sorted_best_sentences[:3]):
 ```
 
 ## Rezultate
-![Rezultat oferit de stella_en_1.5B_v5:]([https://github.com/LauraDiosan-CS/projects-speedcatch/blob/main/RealData/Documentatie/Rez2.png](https://github.com/AriiSM/SpeedCatch/blob/main/Documentatie/03%20RealData/Imagini/Rez2.png))
+![Rezultat oferit de stella_en_1.5B_v5:](https://github.com/AriiSM/SpeedCatch/blob/main/Documentatie/03%20RealData/Imagini/Rez2.png)
 
 # 2. Sakil/sentence_similarity_semantic_search
 
