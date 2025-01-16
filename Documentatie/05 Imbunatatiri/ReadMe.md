@@ -27,9 +27,9 @@ Astfel, am decis să migrăm către modelul `stella_en_1.5B_v5`, care se află �
 rezultat asteptat =>  "Trump is USA's antique hero."*
 
 
-![Rezultat oferit de stella_en_1.5B_v5:]()
+![Rezultat oferit de stella_en_1.5B_v5:](https://github.com/AriiSM/SpeedCatch/blob/main/Documentatie/03%20RealData/Imagini/Rez2.png)
 
-![Rezultat oferit de Sakil/sentence_similarity_semantic_search:]()
+![Rezultat oferit de Sakil/sentence_similarity_semantic_search:](https://github.com/AriiSM/SpeedCatch/blob/main/Documentatie/03%20RealData/Imagini/Rez1.png)
 
 Se poate observa diferente dintre ele. Stella ofera un scor de similaritate mai ridicat decat sakil, totodata stella ne ofera rezultatul corect in timp ce sakil, nu.
 
