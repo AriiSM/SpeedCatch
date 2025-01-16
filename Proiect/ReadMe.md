@@ -1,0 +1,3 @@
+- **Backend**: Server FastAPI care gestionează logica și interacțiunile cu baza de date.
+- **Frontend**: Interfață utilizator care comunică cu serverul prin API-uri.
+- Împreună formează o aplicație completă pentru o experiență fluidă.
