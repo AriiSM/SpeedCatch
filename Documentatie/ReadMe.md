@@ -1,19 +1,19 @@
 
 ## 📜 Cuprins
 
-- [**Prezentare de Început**]() 
+- [**Prezentare de Început**](https://github.com/AriiSM/SpeedCatch/tree/main/Documentatie/01%20PrezentareDeInceput) 
     O privire generală asupra proiectului și scopurilor sale.
     
-- [**Documentație SmallData**]()
+- [**Documentație SmallData**](https://github.com/AriiSM/SpeedCatch/tree/main/Documentatie/02%20SmallData)
     Detalii despre cum gestionăm și utilizăm seturile de date mici.
     
-- [**Documentație ReadData**]()
+- [**Documentație ReadData**](https://github.com/AriiSM/SpeedCatch/tree/main/Documentatie/03%20RealData)
     Informații despre procesul de citire și manipulare a datelor.
     
-- [**Integrare în Aplicație**]() 
+- [**Integrare în Aplicație**](https://github.com/AriiSM/SpeedCatch/tree/main/Documentatie/04%20Integrated) 
     Cum am integrat soluțiile dezvoltate în aplicația noastră.
     
-- [**Îmbunătățiri**]()
+- [**Îmbunătățiri**](https://github.com/AriiSM/SpeedCatch/tree/main/Documentatie/05%20Imbunatatiri)
     Idei și propuneri pentru dezvoltarea viitoare a proiectului.
 
 ---
