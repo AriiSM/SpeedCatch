@@ -1,0 +1,30 @@
+/* For information on how to create your own theme, please see:
+http://ionicframework.com/docs/theming/ */
+:root {
+    --ion-color-light: #ffffff; 
+    --ion-color-light-contrast: #000000; 
+  }
+  
+  .animated-section {
+    animation: slideDown 0.5s ease-in-out;
+  }
+  
+  @keyframes slideDown {
+    from {
+      transform: translateY(-20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  .hoverable-row {
+    transition: box-shadow 0.3s ease; /* Să fie un efect lin */
+  }
+  
+  .hoverable-row:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Umbra */
+  }
+  

@@ -1,0 +1,34 @@
+ion-button {
+    --font-family: 'Quicksand', sans-serif; /* Asigură-te că fontul este același ca la dropdown */
+    --font-weight: 500; /* Greutatea fontului să fie similară */
+    --font-size: 16px; /* Dimensiunea fontului */
+    /*--background: transparent;  Fundal transparent pentru a păstra consistența */
+    --background-hover: #da932b;  /* Fundalul butonului la hover */
+    --color: #512804; /* Aceeași culoare maro ca la textul documentelor */
+    --border-radius: 4px; /* Ușoară rotunjire pentru butoane */
+    text-transform: none; /* Evită transformarea textului în uppercase */
+    padding: 8px 12px;
+    margin-right: 10px; /* Spațiu între butoane */
+    display: inline-block; /* Butoanele să fie afișate pe o linie */
+  }
+  
+  ion-button::part(native) {
+    border: none; /* Elimină orice cadru */
+    background: transparent; /* Fundal transparent */
+    outline: none; /* Elimină outline-ul implicit */
+    box-shadow: none; /* Elimină umbrele */
+    padding: 0; /* Elimină padding-ul */
+  }
+  
+  ion-button:hover {
+    
+    /* --background: var(--background-hover); */
+    --background: transparent; /* Fundalul rămâne transparent/alb */
+    --color: #fff; /* Culoarea textului se schimbă */
+  }
+
+
+.send{
+  --background-hover: #2f7508;  /* Fundalul butonului la hover */
+
+}
