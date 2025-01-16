@@ -3,7 +3,6 @@
 ### 1. Clonarea repository-ului:
 ```bash
 git clone https://github.com/AriiSM/SpeedCatch/tree/main/Proiect/Backend
-cd repository_name
 ```
 
 ### 2. Crearea unui mediu virtual
